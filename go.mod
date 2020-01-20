@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	cloud.google.com/go v0.34.0 // indirect
-	contrib.go.opencensus.io/exporter/stackdriver v0.8.0
+	contrib.go.opencensus.io/exporter/stackdriver v0.12.9
 	fortio.org/fortio v1.3.1
 	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/ahmetb/gen-crd-api-reference-docs v0.1.1
