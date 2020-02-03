@@ -10,7 +10,7 @@ require (
 	github.com/ahmetb/gen-crd-api-reference-docs v0.1.1
 	github.com/aws/aws-sdk-go v1.16.20 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
-	github.com/go-openapi/spec v0.19.0
+	github.com/go-openapi/spec v0.19.6
 	github.com/golang/groupcache v0.0.0-20171101203131-84a468cf14b4 // indirect
 	github.com/golang/protobuf v1.2.0
 	github.com/google/btree v0.0.0-20180813153112-4030bb1f1f0c // indirect
