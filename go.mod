@@ -7,7 +7,7 @@ require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.8.0
 	fortio.org/fortio v1.3.1
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/ahmetb/gen-crd-api-reference-docs v0.1.1
+	github.com/ahmetb/gen-crd-api-reference-docs v0.2.0
 	github.com/aws/aws-sdk-go v1.16.20 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-openapi/spec v0.19.0
