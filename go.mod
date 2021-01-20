@@ -7,7 +7,7 @@ require (
 	contrib.go.opencensus.io/exporter/stackdriver v0.8.0
 	fortio.org/fortio v1.3.1
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/ahmetb/gen-crd-api-reference-docs v0.1.1
+	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/aws/aws-sdk-go v1.16.20 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-openapi/spec v0.19.0
@@ -31,19 +31,18 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/prometheus/client_golang v0.9.2
 	github.com/sirupsen/logrus v1.2.0
-	github.com/spf13/pflag v1.0.3
+	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.3.1
 	github.com/stretchr/testify v1.3.0
 	go.opencensus.io v0.18.0
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
+	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
-	golang.org/x/tools v0.0.0-20190328211700-ab21143f2384
+	golang.org/x/tools v0.0.0-20200505023115-26f46d2f7ef8
 	google.golang.org/api v0.0.0-20190117000611-43037ff31f69 // indirect
 	google.golang.org/genproto v0.0.0-20190111180523-db91494dd46c
 	google.golang.org/grpc v1.17.0
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0-20181126191744-95336914c664
 	k8s.io/apiextensions-apiserver v0.0.0-20181126195113-57b8dbfcc51a
 	k8s.io/apimachinery v0.0.0-20181126123124-70adfbae261e
