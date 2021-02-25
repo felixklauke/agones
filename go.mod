@@ -11,10 +11,8 @@ require (
 	github.com/aws/aws-sdk-go v1.16.20 // indirect
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/go-openapi/spec v0.19.0
-	github.com/golang/groupcache v0.0.0-20171101203131-84a468cf14b4 // indirect
-	github.com/golang/protobuf v1.2.0
+	github.com/golang/protobuf v1.4.3
 	github.com/google/btree v0.0.0-20180813153112-4030bb1f1f0c // indirect
-	github.com/google/uuid v1.1.0 // indirect
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20181110185634-c63ab54fda8f // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.5.1
@@ -33,15 +31,14 @@ require (
 	github.com/sirupsen/logrus v1.2.0
 	github.com/spf13/pflag v1.0.3
 	github.com/spf13/viper v1.3.1
-	github.com/stretchr/testify v1.3.0
-	go.opencensus.io v0.18.0
-	golang.org/x/net v0.0.0-20190311183353-d8887717615a
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
+	github.com/stretchr/testify v1.6.1
+	go.opencensus.io v0.23.0
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
-	golang.org/x/tools v0.0.0-20190328211700-ab21143f2384
+	golang.org/x/tools v0.0.0-20190524140312-2c0ae7006135
 	google.golang.org/api v0.0.0-20190117000611-43037ff31f69 // indirect
-	google.golang.org/genproto v0.0.0-20190111180523-db91494dd46c
-	google.golang.org/grpc v1.17.0
+	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
+	google.golang.org/grpc v1.33.2
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
 	gopkg.in/yaml.v2 v2.2.2
 	k8s.io/api v0.0.0-20181126191744-95336914c664
