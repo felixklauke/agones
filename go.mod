@@ -44,7 +44,7 @@ require (
 	google.golang.org/grpc v1.17.0
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.0.0-20181126191744-95336914c664
 	k8s.io/apiextensions-apiserver v0.0.0-20181126195113-57b8dbfcc51a
 	k8s.io/apimachinery v0.0.0-20181126123124-70adfbae261e
