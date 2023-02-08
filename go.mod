@@ -6,7 +6,6 @@ require (
 	cloud.google.com/go v0.34.0 // indirect
 	contrib.go.opencensus.io/exporter/stackdriver v0.8.0
 	fortio.org/fortio v1.3.1
-	github.com/BurntSushi/toml v0.3.1 // indirect
 	github.com/ahmetb/gen-crd-api-reference-docs v0.1.1
 	github.com/aws/aws-sdk-go v1.16.20 // indirect
 	github.com/fsnotify/fsnotify v1.5.4
@@ -14,7 +13,6 @@ require (
 	github.com/golang/groupcache v0.0.0-20171101203131-84a468cf14b4 // indirect
 	github.com/golang/protobuf v1.4.2
 	github.com/google/btree v0.0.0-20180813153112-4030bb1f1f0c // indirect
-	github.com/google/uuid v1.1.0 // indirect
 	github.com/googleapis/gnostic v0.1.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20181110185634-c63ab54fda8f // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.5.1
@@ -36,12 +34,11 @@ require (
 	github.com/stretchr/testify v1.8.0
 	go.opencensus.io v0.18.0
 	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
-	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
-	golang.org/x/tools v0.0.0-20190328211700-ab21143f2384
+	golang.org/x/tools v0.0.0-20190524140312-2c0ae7006135
 	google.golang.org/api v0.0.0-20190117000611-43037ff31f69 // indirect
-	google.golang.org/genproto v0.0.0-20190111180523-db91494dd46c
-	google.golang.org/grpc v1.17.0
+	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013
+	google.golang.org/grpc v1.34.2
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
 	gopkg.in/yaml.v2 v2.4.0
